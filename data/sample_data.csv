@@ -1,0 +1,9 @@
+sku,category,supplier,on_hand,reorder_point,weekly_demand,lead_time_days,unit_cost
+SKU-101,Electronics,Andes Supply,42,35,18,9,120
+SKU-102,Electronics,Pacific Parts,12,30,22,14,95
+SKU-201,Home,Andes Supply,140,60,25,7,18
+SKU-202,Home,Northstar,55,50,16,11,22
+SKU-301,Office,Pacific Parts,24,40,20,16,35
+SKU-302,Office,Northstar,88,45,12,8,28
+SKU-401,Beauty,Andes Supply,31,28,15,10,14
+SKU-402,Beauty,Pacific Parts,9,24,13,15,16
